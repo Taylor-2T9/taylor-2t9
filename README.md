@@ -6,7 +6,7 @@
 
 ## Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylor-2t9&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylor-2t9&hide_progress=true&theme=dark)]
 
 ## Tools and Technologies
 <div style=" display: flex;"> 
@@ -37,4 +37,4 @@
 <br/>
 <br/>
 <br/>
-![Cat Programmer](cat_programmer.gif)
+[![Cat Programmer](https://github.com/Taylor-2T9/taylor-2t9/blob/main/cat_programmer.gif)]
