@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello there! 👋
+## Welcome to my profile!
 
-<!--
-**Taylor-2T9/taylor-2t9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently working on Full Stack Dev
+- 🌱 I'm living and learning...
+- 😄 Pronouns: (he/him)
 
-Here are some ideas to get you started:
+## Most Used Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylor-2t9&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="Javascript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
+
