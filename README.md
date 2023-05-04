@@ -37,4 +37,4 @@
 <br/>
 <br/>
 <br/>
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"/>
+<img src="cat_programmer.gif"/>
