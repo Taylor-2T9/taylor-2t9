@@ -34,3 +34,7 @@
 <a href = "mailto:ftayloros29@gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/taylor-oliveira-3341341b4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+<br/>
+<br/>
+<br/>
+![Cat Programmer](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
