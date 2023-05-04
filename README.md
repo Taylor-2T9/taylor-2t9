@@ -37,4 +37,4 @@
 <br/>
 <br/>
 <br/>
-![Cat Programmer](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
+![Cat Programmer](cat_programmer.gif)
