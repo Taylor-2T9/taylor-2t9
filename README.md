@@ -37,4 +37,4 @@
 <br/>
 <br/>
 <br/>
-![Cat Programmer](https://github.com/Taylor-2T9/taylor-2t9/blob/main/cat_programmer.gif)
+![Cat Programmer](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
